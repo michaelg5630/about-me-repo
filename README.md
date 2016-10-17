@@ -1,7 +1,7 @@
 #  Michael Gierlach 
-  ## Sudent
-## michaelg5630@hstat.org
- ## H
+## Sudent
+### michaelg5630@hstat.org
+#### High School of Telecommunications Arts and Technology
 Michael Gierlach grew up in Brooklyn, New York and he is 16 years old. Michael plays many sports and he is on the school team for _baseball_, basketball, and bowling. He is also part of the [SEP](https://sites.google.com/a/hstat.org/11sep1617/home) program.  
 **Schedule**
 1. SEP
@@ -16,4 +16,4 @@ Michael Gierlach grew up in Brooklyn, New York and he is 16 years old. Michael p
 * SEP
 * Lunch
 * History
-*Study Hall
+* Study Hall
