@@ -2,7 +2,7 @@
   ## Sudent
 ## michaelg5630@hstat.org
  ## HSTAT
-Michael Gierlach grew up in Broolyn, New York and he is 16 years old. Michael plays many sports and he is on the school team for baseball, basketball, and bowling. He is also part of the SEP program.
+Michael Gierlach grew up in Broolyn, New York and he is 16 years old. Michael plays many sports and he is on the school team for _baseball_, basketball, and bowling. He is also part of the SEP program.
 **Schedule**
 1. SEP
 2. History
